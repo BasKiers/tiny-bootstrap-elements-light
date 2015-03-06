@@ -1,5 +1,5 @@
 === Tiny Bootstrap Elements Light ===
-
+Contributors: Migli
 Plugin Name: Tiny Bootstrap Elements Light
 Plugin URI: http://codecanyon.net/item/tiny-bootstrap-elements-wordpress-plugin/10293837
 Tags: admin, alert, badge, bootstrap, bootstrap elements, bootstrap toolbar, bootstrap tools, breadcrumb, editor, icon, icons, image, label, pager, pagination, panel, plugin, plugins, posts, table, tables, template, templates, tinymce, wordpress
