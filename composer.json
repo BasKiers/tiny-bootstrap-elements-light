@@ -1,0 +1,14 @@
+{
+  "name": "baskiers/tiny-bootstrap-elements-light",
+  "description": "Bootstrap elements in tinymce",
+  "keywords": [
+    "bootstrap",
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/BasKiers/tiny-bootstrap-elements-light",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2"
+  }
+}
